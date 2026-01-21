@@ -1,6 +1,5 @@
 # math-notes
 Undergraduate math notes for financial mathematics and quantitative modeling
-# Math Notes
 
 This repository contains mathematical notes
 compiled during my undergraduate studies
